@@ -1,0 +1,5 @@
+document.querySelector é um método do DOM que permite selecionar o primeiro elemento que corresponde a um seletor CSS especificado. Este método é muito poderoso e flexível, pois permite a utilização de seletores CSS complexos para encontrar elementos em uma página HTML.
+
+textContent - retorna o conteúdo textual de um nó e de todos os seus filhos. Quando configurado, substitui todo o conteúdo do nó (incluindo HTML) pelo texto especificado.
+
+classList - interface do DOM que permite acessar e manipular as classes CSS de um elemento
